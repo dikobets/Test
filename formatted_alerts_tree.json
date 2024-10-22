@@ -1,0 +1,687 @@
+[
+    {
+        "name": "Bond_XYZ",
+        "path": "Bond_XYZ",
+        "children": [
+            {
+                "name": "Trader A",
+                "path": "Bond_XYZ/Trader A",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Bond_XYZ/Trader A/Front Running",
+                        "value": 10
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Bond_XYZ/Trader A/Marking the Close",
+                        "value": 18
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Bond_XYZ/Trader A/Spoofing",
+                        "value": 7
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Bond_XYZ/Trader A/Wash Trading",
+                        "value": 11
+                    }
+                ]
+            },
+            {
+                "name": "Trader B",
+                "path": "Bond_XYZ/Trader B",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Bond_XYZ/Trader B/Front Running",
+                        "value": 8
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Bond_XYZ/Trader B/Marking the Close",
+                        "value": 25
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Bond_XYZ/Trader B/Spoofing",
+                        "value": 6
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Bond_XYZ/Trader B/Wash Trading",
+                        "value": 6
+                    }
+                ]
+            },
+            {
+                "name": "Trader C",
+                "path": "Bond_XYZ/Trader C",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Bond_XYZ/Trader C/Front Running",
+                        "value": 9
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Bond_XYZ/Trader C/Marking the Close",
+                        "value": 22
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Bond_XYZ/Trader C/Spoofing",
+                        "value": 12
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Bond_XYZ/Trader C/Wash Trading",
+                        "value": 15
+                    }
+                ]
+            },
+            {
+                "name": "Trader D",
+                "path": "Bond_XYZ/Trader D",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Bond_XYZ/Trader D/Front Running",
+                        "value": 18
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Bond_XYZ/Trader D/Marking the Close",
+                        "value": 8
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Bond_XYZ/Trader D/Spoofing",
+                        "value": 2
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Bond_XYZ/Trader D/Wash Trading",
+                        "value": 12
+                    }
+                ]
+            },
+            {
+                "name": "Trader E",
+                "path": "Bond_XYZ/Trader E",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Bond_XYZ/Trader E/Front Running",
+                        "value": 15
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Bond_XYZ/Trader E/Marking the Close",
+                        "value": 34
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Bond_XYZ/Trader E/Spoofing",
+                        "value": 5
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Bond_XYZ/Trader E/Wash Trading",
+                        "value": 15
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CryptoPairX",
+        "path": "CryptoPairX",
+        "children": [
+            {
+                "name": "Trader A",
+                "path": "CryptoPairX/Trader A",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "CryptoPairX/Trader A/Front Running",
+                        "value": 11
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "CryptoPairX/Trader A/Marking the Close",
+                        "value": 11
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "CryptoPairX/Trader A/Spoofing",
+                        "value": 19
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "CryptoPairX/Trader A/Wash Trading",
+                        "value": 36
+                    }
+                ]
+            },
+            {
+                "name": "Trader B",
+                "path": "CryptoPairX/Trader B",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "CryptoPairX/Trader B/Front Running",
+                        "value": 18
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "CryptoPairX/Trader B/Marking the Close",
+                        "value": 5
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "CryptoPairX/Trader B/Spoofing",
+                        "value": 11
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "CryptoPairX/Trader B/Wash Trading",
+                        "value": 43
+                    }
+                ]
+            },
+            {
+                "name": "Trader C",
+                "path": "CryptoPairX/Trader C",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "CryptoPairX/Trader C/Front Running",
+                        "value": 6
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "CryptoPairX/Trader C/Marking the Close",
+                        "value": 8
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "CryptoPairX/Trader C/Spoofing",
+                        "value": 12
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "CryptoPairX/Trader C/Wash Trading",
+                        "value": 12
+                    }
+                ]
+            },
+            {
+                "name": "Trader D",
+                "path": "CryptoPairX/Trader D",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "CryptoPairX/Trader D/Front Running",
+                        "value": 24
+                    },
+                    {
+                        "name": "Insider Trading",
+                        "path": "CryptoPairX/Trader D/Insider Trading",
+                        "value": 3
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "CryptoPairX/Trader D/Spoofing",
+                        "value": 5
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "CryptoPairX/Trader D/Wash Trading",
+                        "value": 9
+                    }
+                ]
+            },
+            {
+                "name": "Trader E",
+                "path": "CryptoPairX/Trader E",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "CryptoPairX/Trader E/Front Running",
+                        "value": 10
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "CryptoPairX/Trader E/Marking the Close",
+                        "value": 7
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "CryptoPairX/Trader E/Spoofing",
+                        "value": 9
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "CryptoPairX/Trader E/Wash Trading",
+                        "value": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Futures_XYZ",
+        "path": "Futures_XYZ",
+        "children": [
+            {
+                "name": "Trader A",
+                "path": "Futures_XYZ/Trader A",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Futures_XYZ/Trader A/Front Running",
+                        "value": 24
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Futures_XYZ/Trader A/Spoofing",
+                        "value": 15
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Futures_XYZ/Trader A/Wash Trading",
+                        "value": 24
+                    }
+                ]
+            },
+            {
+                "name": "Trader B",
+                "path": "Futures_XYZ/Trader B",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Futures_XYZ/Trader B/Front Running",
+                        "value": 14
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Futures_XYZ/Trader B/Spoofing",
+                        "value": 8
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Futures_XYZ/Trader B/Wash Trading",
+                        "value": 11
+                    }
+                ]
+            },
+            {
+                "name": "Trader C",
+                "path": "Futures_XYZ/Trader C",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Futures_XYZ/Trader C/Front Running",
+                        "value": 14
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Futures_XYZ/Trader C/Spoofing",
+                        "value": 64
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Futures_XYZ/Trader C/Wash Trading",
+                        "value": 3
+                    }
+                ]
+            },
+            {
+                "name": "Trader D",
+                "path": "Futures_XYZ/Trader D",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Futures_XYZ/Trader D/Front Running",
+                        "value": 4
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Futures_XYZ/Trader D/Spoofing",
+                        "value": 6
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Futures_XYZ/Trader D/Wash Trading",
+                        "value": 22
+                    }
+                ]
+            },
+            {
+                "name": "Trader E",
+                "path": "Futures_XYZ/Trader E",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Futures_XYZ/Trader E/Front Running",
+                        "value": 11
+                    },
+                    {
+                        "name": "Insider Trading",
+                        "path": "Futures_XYZ/Trader E/Insider Trading",
+                        "value": 2
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Futures_XYZ/Trader E/Spoofing",
+                        "value": 2
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Futures_XYZ/Trader E/Wash Trading",
+                        "value": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Options_LMN",
+        "path": "Options_LMN",
+        "children": [
+            {
+                "name": "Trader A",
+                "path": "Options_LMN/Trader A",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Options_LMN/Trader A/Front Running",
+                        "value": 6
+                    },
+                    {
+                        "name": "Insider Trading",
+                        "path": "Options_LMN/Trader A/Insider Trading",
+                        "value": 14
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Options_LMN/Trader A/Marking the Close",
+                        "value": 4
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Options_LMN/Trader A/Spoofing",
+                        "value": 6
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Options_LMN/Trader A/Wash Trading",
+                        "value": 6
+                    }
+                ]
+            },
+            {
+                "name": "Trader B",
+                "path": "Options_LMN/Trader B",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Options_LMN/Trader B/Front Running",
+                        "value": 16
+                    },
+                    {
+                        "name": "Insider Trading",
+                        "path": "Options_LMN/Trader B/Insider Trading",
+                        "value": 7
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Options_LMN/Trader B/Spoofing",
+                        "value": 8
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Options_LMN/Trader B/Wash Trading",
+                        "value": 11
+                    }
+                ]
+            },
+            {
+                "name": "Trader C",
+                "path": "Options_LMN/Trader C",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Options_LMN/Trader C/Front Running",
+                        "value": 10
+                    },
+                    {
+                        "name": "Insider Trading",
+                        "path": "Options_LMN/Trader C/Insider Trading",
+                        "value": 16
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Options_LMN/Trader C/Marking the Close",
+                        "value": 2
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Options_LMN/Trader C/Spoofing",
+                        "value": 12
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Options_LMN/Trader C/Wash Trading",
+                        "value": 14
+                    }
+                ]
+            },
+            {
+                "name": "Trader D",
+                "path": "Options_LMN/Trader D",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Options_LMN/Trader D/Front Running",
+                        "value": 6
+                    },
+                    {
+                        "name": "Insider Trading",
+                        "path": "Options_LMN/Trader D/Insider Trading",
+                        "value": 13
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Options_LMN/Trader D/Marking the Close",
+                        "value": 9
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Options_LMN/Trader D/Spoofing",
+                        "value": 8
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Options_LMN/Trader D/Wash Trading",
+                        "value": 24
+                    }
+                ]
+            },
+            {
+                "name": "Trader E",
+                "path": "Options_LMN/Trader E",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Options_LMN/Trader E/Front Running",
+                        "value": 8
+                    },
+                    {
+                        "name": "Insider Trading",
+                        "path": "Options_LMN/Trader E/Insider Trading",
+                        "value": 10
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Options_LMN/Trader E/Marking the Close",
+                        "value": 3
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Options_LMN/Trader E/Spoofing",
+                        "value": 10
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Options_LMN/Trader E/Wash Trading",
+                        "value": 22
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Stock_ABC",
+        "path": "Stock_ABC",
+        "children": [
+            {
+                "name": "Trader A",
+                "path": "Stock_ABC/Trader A",
+                "children": [
+                    {
+                        "name": "Insider Trading",
+                        "path": "Stock_ABC/Trader A/Insider Trading",
+                        "value": 8
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Stock_ABC/Trader A/Marking the Close",
+                        "value": 4
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Stock_ABC/Trader A/Spoofing",
+                        "value": 15
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Stock_ABC/Trader A/Wash Trading",
+                        "value": 20
+                    }
+                ]
+            },
+            {
+                "name": "Trader B",
+                "path": "Stock_ABC/Trader B",
+                "children": [
+                    {
+                        "name": "Insider Trading",
+                        "path": "Stock_ABC/Trader B/Insider Trading",
+                        "value": 13
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Stock_ABC/Trader B/Marking the Close",
+                        "value": 7
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Stock_ABC/Trader B/Spoofing",
+                        "value": 4
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Stock_ABC/Trader B/Wash Trading",
+                        "value": 10
+                    }
+                ]
+            },
+            {
+                "name": "Trader C",
+                "path": "Stock_ABC/Trader C",
+                "children": [
+                    {
+                        "name": "Insider Trading",
+                        "path": "Stock_ABC/Trader C/Insider Trading",
+                        "value": 6
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Stock_ABC/Trader C/Marking the Close",
+                        "value": 2
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Stock_ABC/Trader C/Spoofing",
+                        "value": 15
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Stock_ABC/Trader C/Wash Trading",
+                        "value": 15
+                    }
+                ]
+            },
+            {
+                "name": "Trader D",
+                "path": "Stock_ABC/Trader D",
+                "children": [
+                    {
+                        "name": "Front Running",
+                        "path": "Stock_ABC/Trader D/Front Running",
+                        "value": 39
+                    },
+                    {
+                        "name": "Insider Trading",
+                        "path": "Stock_ABC/Trader D/Insider Trading",
+                        "value": 9
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Stock_ABC/Trader D/Marking the Close",
+                        "value": 8
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Stock_ABC/Trader D/Spoofing",
+                        "value": 1
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Stock_ABC/Trader D/Wash Trading",
+                        "value": 3
+                    }
+                ]
+            },
+            {
+                "name": "Trader E",
+                "path": "Stock_ABC/Trader E",
+                "children": [
+                    {
+                        "name": "Insider Trading",
+                        "path": "Stock_ABC/Trader E/Insider Trading",
+                        "value": 13
+                    },
+                    {
+                        "name": "Marking the Close",
+                        "path": "Stock_ABC/Trader E/Marking the Close",
+                        "value": 7
+                    },
+                    {
+                        "name": "Spoofing",
+                        "path": "Stock_ABC/Trader E/Spoofing",
+                        "value": 14
+                    },
+                    {
+                        "name": "Wash Trading",
+                        "path": "Stock_ABC/Trader E/Wash Trading",
+                        "value": 9
+                    }
+                ]
+            }
+        ]
+    }
+]
